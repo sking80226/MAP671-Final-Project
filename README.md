@@ -8,7 +8,7 @@
 
 **Steps taken to create map:** To create this map, I first found a legible historical map that showed the area if interest, Clare Market. I then took a clip of that map, converted it a JPG and georeferenced the historic map to a modern map of the city of London in QGIS 3.22.28. For the modern map, I used the ERSI Standard map tile, leaving it in the EPSG: 4326 CRS. Using the present-day map, I ran a Quick OSM query to create a layer showing a map of the modern highways in the area and ran another to map the modern buildings. Both layers were then overlayed on top of the georeferenced historic map to show how they now cover the historic Clare Market neighborhood and market area. Once the layers were set, I then updated the project CRS to ESRI:102400.
 
-**Active link to final index.html page:
+**Active link to final index.html page: https://sking80226.github.io/MAP671-KingFinal-Project/
 
 Embedded Images:
 
