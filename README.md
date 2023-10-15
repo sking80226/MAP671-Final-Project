@@ -2,7 +2,7 @@
 
 **Project Title:** Disappearance of the historic Clare Market District in London
 
-https://github.com/sking80226/MAP671-KingFinal-Project/blob/main/Maps/2%20-%20Clare%20Market%208000%20px.jpg
+(https://github.com/sking80226/MAP671-KingFinal-Project/blob/main/Maps/2%20-%20Clare%20Market%208000%20px.jpg)
 
 **Information about data source:** The historic map image was taken from the “A New and Exact Plan of the City of London and Suburbs (1739)” map by Sutton Nicholls.  The map was accessed at: https://collections.britishart.yale.edu/catalog/tms:36381.  The modern building and highway overlay was built using Open Street Map queries on QGIS 3.22.28.
 
